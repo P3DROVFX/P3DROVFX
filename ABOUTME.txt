@@ -1,0 +1,10 @@
+➣ print('ABOUT ME')
+
+➣ print('''Hello, my name is Pedro and i'm learning about the world, i have 17 years old and actualy 12/06/2021 i'm learning to program python and html,
+and i'm a video editor and designer.''')
+
+➣ INSTAGRAM: @p3drovfx
+➣ WHATTSAPP: +55 87996443783
+➣ YOUTUBE: P3DROVFX
+
+➣ print('THX')
