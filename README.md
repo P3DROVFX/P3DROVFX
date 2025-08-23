@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm always looking to make my life easier through programming</h3>
-# 💫 About Me:
 🌱 I’m currently learning Javascrit<br><br>👨‍💻 Some of my design projects https://www.behance.net/p3drovfx<br><br>📫 How to reach me pedrolucasmunizpessoa@gmail.com
 
 
