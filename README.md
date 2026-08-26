@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">I'm always looking to make my life easier through programming</h3>
-
 
 
 ## 🌐 Socials:
@@ -11,7 +9,3 @@
 
 # 🎨 UI/UX:
 <br>![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg)![Premiere](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg)![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg)![Davinci](https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve1.svg)
-
-# 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p3drovfx&theme=rose_pine) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=p3drovfx&theme=rose_pine) 
